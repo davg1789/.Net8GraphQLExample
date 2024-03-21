@@ -1,0 +1,6 @@
+@Net8GraphQLExample_HostAddress = http://localhost:5265
+
+GET {{Net8GraphQLExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
