@@ -1,4 +1,4 @@
-.Net * GraphQL Example App.  <br>
+.Net 8 GraphQL Example App.  <br>
 - .Net 8
 - GraphQL
 - SQLite
