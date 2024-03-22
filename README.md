@@ -4,6 +4,9 @@
 - SQLite
 - Entity Framework Core
 - Repository pattern
+- Integration tests
+- XUnit
+- FluentAssertion
 
 
 Get by name
